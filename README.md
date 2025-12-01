@@ -66,12 +66,10 @@ ViewModel использует только Domain Model — без DTO и Entit
 
 ---
 
-## Скриншоты TODO
+## Скриншоты
 
-<!--
-![Feed Screen](Screenshots/feed.png)
-![Pull To Refresh](Screenshots/pull_to_refresh.png)
--->
+<img src="Screens/feed.png" width="300">
+
 
 ---
 
@@ -79,7 +77,7 @@ ViewModel использует только Domain Model — без DTO и Entit
 
 | Технология | Описание |
 |-----------|----------|
-| **Swift 5+** | основной язык |
+| **Swift** | основной язык |
 | **UIKit** | UI без сторибордов |
 | **AutoLayout (кодом)** | адаптивная верстка |
 | **Alamofire** | сетевой слой |
